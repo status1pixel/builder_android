@@ -28,6 +28,7 @@ RUN apt-get update && apt-get -y --no-install-recommends install \
     x11proto-core-dev \
     libx11-dev \
     lib32z-dev \
+    libssl-dev \
     ccache \
     libgl1-mesa-dev \
     libxml2-utils \
